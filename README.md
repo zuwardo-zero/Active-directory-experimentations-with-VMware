@@ -7,8 +7,8 @@ This project demonstrates a custom **Active Directory lab** built in **VMware Wo
 ## 🔧 Lab Setup
 - **Domain Name:** Sci.dz  
 - **Virtual Machines:**  
-  - 1 Domain Controller (Windows Server 2003)  
-  - 2 Client Machines (Windows 7/10)  
+  - 1 Domain Controller (Windows Server 2008 R2)  
+  - 2 Client Machines (Windows 10)  
 - **Platform:** VMware Workstation  
 
 ---
